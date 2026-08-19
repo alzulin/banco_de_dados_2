@@ -1,1 +1,1 @@
-# banco_de_dados_2
+# Materiais para as aulas de Banco de Dados II do curso Subsequente em Desenvolvimento de Sistemas
